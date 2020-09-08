@@ -4,7 +4,7 @@ You can visit my personal website [here](https://grantslattery.github.io/my-app/
 
 This page is meant for testing coding projects.
 
-### HelloWorld.py  
+### helloworld.py  
 
 Basic Python code that returns text.
 
@@ -16,4 +16,4 @@ print("This line will be printed.")
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [helloworld.py](https://github.com/GrantSlattery/helloworld.py).
