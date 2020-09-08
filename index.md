@@ -4,9 +4,9 @@ You can visit my personal website [here](https://grantslattery.github.io/my-app/
 
 This page is meant for testing coding projects.
 
-### Bitcoin Price App  
+### HelloWorld.py  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Basic Python code that returns text.
 
 ```python
 
@@ -14,24 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 print("This line will be printed.")
 
 
-```
-
-```md
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
