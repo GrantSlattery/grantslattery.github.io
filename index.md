@@ -27,7 +27,10 @@ For more details see [helloworld.py](https://github.com/GrantSlattery/helloworld
 
 Personal website created with React.js & Node.js
 
-<iframe src="https://grantslattery.github.io/my-app/" ></iframe>
+<iframe src="https://grantslattery.github.io/my-app/" width=700 height=600></iframe>
+
+Website link: [my-app](https://grantslattery.github.io/my-app/).
+
 
 For more details see [my-app](https://github.com/GrantSlattery/my-app/tree/gh-pages).
 
