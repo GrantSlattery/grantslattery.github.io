@@ -1,10 +1,10 @@
-## Welcome
+# Welcome
 
 You can visit my personal website [here](https://grantslattery.github.io/my-app/) to learn more about me and connect.
 
 This page is meant for testing coding projects.
 
-### helloworld.py  
+## helloworld.py  
 
 Basic Python code that returns text.
 
@@ -23,7 +23,7 @@ For more details see [helloworld.py](https://github.com/GrantSlattery/helloworld
 
 
 
-### my-app  
+## my-app  
 
 Personal website created with React.js & Node.js
 
@@ -37,7 +37,7 @@ For more details see [my-app](https://github.com/GrantSlattery/my-app/tree/gh-pa
 
 
 
-### BitsConverter  
+## BitsConverter  
 
 This program converts Twitch Bits to United States Dollars.
 1 Bit is equal to 0.01 USD
