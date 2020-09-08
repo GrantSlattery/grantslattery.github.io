@@ -4,11 +4,19 @@ You can visit my personal website [here](https://grantslattery.github.io/my-app/
 
 This page is meant for testing coding projects.
 
-### Markdown
+### Bitcoin Price App  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```python
+
+#Testing Python code
+print("This line will be printed.")
+
+
+```
+
+```md
 Syntax highlighted code block
 
 # Header 1
