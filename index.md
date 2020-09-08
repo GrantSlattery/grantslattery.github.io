@@ -2,7 +2,10 @@
 
 You can visit my personal website [here](https://grantslattery.github.io/my-app/) to learn more about me and connect.
 
-This page is meant for testing coding projects.
+
+Here is my [GitHub](https://github.com/GrantSlattery).
+
+This page is meant for testing and displaying coding projects.
 
 ## helloworld.py  
 
