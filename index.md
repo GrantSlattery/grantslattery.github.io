@@ -109,6 +109,6 @@ bits_conv = BitsConverter()
 
 
 ```
-<iframe src="https://raw.githubusercontent.com/GrantSlattery/BitsConverter/master/BitsConverter.png" width=700 height=600></iframe>
+<iframe src="BitsConverter.png" width=400 height=400></iframe>
     
 For more details see [BitsConverter](https://github.com/GrantSlattery/BitsConverter).
